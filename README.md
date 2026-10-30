@@ -28,21 +28,28 @@ del proceso: ejercicios, prototipos y trabajos académicos.
 | [POO-ejemplos](https://github.com/bardock7238/POO-ejemplos) | Ejercicios y patrones de POO |
 | [Habitabilidad-acustica](https://github.com/bardock7238/Habitabilidad-acustica) | Cálculo acústico en Java |
 
-<div align="center">
+### Estadísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=bardock7238&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardock7238&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" height="150" alt="lenguajes" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bardock7238&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" alt="estadísticas" />
+  <img height="165" src="https://streak-stats.demolab.com?user=bardock7238&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="racha" />
+</p>
 
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bardock7238&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="lenguajes" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bardock7238&utcOffset=-5&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&icon_color=3FB950&border_color=30363D" alt="horario" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bardock7238&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&icon_color=3FB950&border_color=30363D" alt="resumen de contribuciones" />
+</p>
 
-<img src="https://raw.githubusercontent.com/bardock7238/bardock7238/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+### Actividad
 
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bardock7238/bardock7238/output/github-contribution-grid-snake-dark.svg" alt="serpiente" />
+</p>
 
-<div align="center">
-
-![Visitas](https://komarev.com/ghpvc/?username=bardock7238&label=visitas&color=3FB950&style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bardock7238&label=visitas&color=3FB950&style=flat-square" alt="visitas" />
+</p>
