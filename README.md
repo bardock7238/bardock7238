@@ -7,8 +7,6 @@
 ![seguidores](https://img.shields.io/github/followers/bardock7238?style=flat-square&label=seguidores&color=F778BA&labelColor=0D1117)
 ![estrellas](https://img.shields.io/github/stars/bardock7238?affiliations=OWNER&style=flat-square&label=estrellas&color=F778BA&labelColor=0D1117)
 
-![From Zero](https://img.shields.io/badge/%E2%96%B6%20escuchando-From%20Zero%20%C2%B7%20Linkin%20Park-F778BA?style=flat-square&labelColor=0D1117)
-
 </div>
 
 ### Sobre mí
@@ -17,7 +15,24 @@ Estudiante de desarrollo de software, enfocado en **programación orientada a ob
 y en llevar lo que aprendo a proyectos concretos. Cada repositorio documenta un paso
 del proceso: ejercicios, prototipos y trabajos académicos.
 
-De fondo, *From Zero* de Linkin Park.
+### Escuchando
+
+<table>
+  <tr>
+    <td width="160">
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/300x300bb.jpg" width="150" alt="From Zero — Linkin Park" />
+    </td>
+    <td>
+      <strong>From Zero</strong> · Linkin Park<br />
+      <sub>2024 · en repetición</sub>
+      <br /><br />
+      ▶ Heavy Is the Crown &nbsp;<sub>2:47</sub><br />
+      ▶ Two Faced &nbsp;<sub>3:03</sub><br />
+      ▶ Over Each Other &nbsp;<sub>2:50</sub><br />
+      ▶ Stained &nbsp;<sub>3:05</sub>
+    </td>
+  </tr>
+</table>
 
 ### Stack
 
