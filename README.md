@@ -7,6 +7,8 @@
 ![seguidores](https://img.shields.io/github/followers/bardock7238?style=flat-square&label=seguidores&color=F778BA&labelColor=0D1117)
 ![estrellas](https://img.shields.io/github/stars/bardock7238?affiliations=OWNER&style=flat-square&label=estrellas&color=F778BA&labelColor=0D1117)
 
+![From Zero](https://img.shields.io/badge/%E2%96%B6%20escuchando-From%20Zero%20%C2%B7%20Linkin%20Park-F778BA?style=flat-square&labelColor=0D1117)
+
 </div>
 
 ### Sobre mí
@@ -14,6 +16,8 @@
 Estudiante de desarrollo de software, enfocado en **programación orientada a objetos**
 y en llevar lo que aprendo a proyectos concretos. Cada repositorio documenta un paso
 del proceso: ejercicios, prototipos y trabajos académicos.
+
+De fondo, *From Zero* de Linkin Park.
 
 ### Stack
 
