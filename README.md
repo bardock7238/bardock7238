@@ -1,24 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=3FB950&center=true&vCenter=true&width=600&lines=Johan+Camargo;Aprendiendo+POO+y+Java;Construyendo+cosas+que+se+mueven" alt="Johan Camargo" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=3FB950&center=true&vCenter=true&width=600&lines=Johan+Camargo;Java+%C2%B7+C%23+%C2%B7+POO;Aprendiendo+construyendo" alt="Johan Camargo" />
+
+**Desarrollador en formación · Java · C# · POO**
 
 </div>
 
-```text
-╔═══════════════════════════════════════════╗
-║  JUGADOR   Johan Camargo                  ║
-║  CLASE     Desarrollador en formación     ║
-║  NIVEL     02 · subiendo                  ║
-║  SKILLS    Java · C# · POO                ║
-║  MISIÓN    aprender construyendo          ║
-╚═══════════════════════════════════════════╝
-```
+### Sobre mí
 
-### Ahora mismo
-
-- Estudiando **programación orientada a objetos** y llevándola a proyectos reales.
-- Me interesan los **videojuegos** y las interfaces que se sienten vivas.
-- Cada repo es un intento de entender algo nuevo, no una obra terminada.
+Estudiante de desarrollo de software, enfocado en **programación orientada a objetos**
+y en llevar lo que aprendo a proyectos concretos. Cada repositorio documenta un paso
+del proceso: ejercicios, prototipos y trabajos académicos.
 
 ### Stack
 
@@ -51,6 +43,6 @@
 
 <div align="center">
 
-![Visitas](https://komarev.com/ghpvc/?username=bardock7238&label=jugadores%20que%20pasaron&color=3FB950&style=flat-square)
+![Visitas](https://komarev.com/ghpvc/?username=bardock7238&label=visitas&color=3FB950&style=flat-square)
 
 </div>
