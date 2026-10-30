@@ -4,6 +4,9 @@
 
 **Desarrollador en formación · Java · C# · POO**
 
+![seguidores](https://img.shields.io/github/followers/bardock7238?style=flat-square&label=seguidores&color=F778BA&labelColor=0D1117)
+![estrellas](https://img.shields.io/github/stars/bardock7238?affiliations=OWNER&style=flat-square&label=estrellas&color=F778BA&labelColor=0D1117)
+
 </div>
 
 ### Sobre mí
@@ -14,19 +17,18 @@ del proceso: ejercicios, prototipos y trabajos académicos.
 
 ### Stack
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=F778BA)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=dotnet&logoColor=F778BA)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F778BA)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=F778BA)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,git,github&theme=dark" alt="Java, C#, Git, GitHub" />
+</p>
 
 ### Proyectos
 
-| Repo | Qué es |
-|---|---|
-| [POO-Pacman](https://github.com/bardock7238/POO-Pacman) | Pacman en Java, armado con POO |
-| [RTS-Academico](https://github.com/bardock7238/RTS-Academico) | Estrategia en tiempo real, C# |
-| [POO-ejemplos](https://github.com/bardock7238/POO-ejemplos) | Ejercicios y patrones de POO |
-| [Habitabilidad-acustica](https://github.com/bardock7238/Habitabilidad-acustica) | Cálculo acústico en Java |
+| Repo | Qué es | Último commit |
+|---|---|---|
+| [POO-Pacman](https://github.com/bardock7238/POO-Pacman) | Pacman en Java, armado con POO | ![último commit](https://img.shields.io/github/last-commit/bardock7238/POO-Pacman?style=flat-square&color=F778BA&labelColor=0D1117&label=) |
+| [RTS-Academico](https://github.com/bardock7238/RTS-Academico) | Estrategia en tiempo real, C# | ![último commit](https://img.shields.io/github/last-commit/bardock7238/RTS-Academico?style=flat-square&color=F778BA&labelColor=0D1117&label=) |
+| [POO-ejemplos](https://github.com/bardock7238/POO-ejemplos) | Ejercicios y patrones de POO | ![último commit](https://img.shields.io/github/last-commit/bardock7238/POO-ejemplos?style=flat-square&color=F778BA&labelColor=0D1117&label=) |
+| [Habitabilidad-acustica](https://github.com/bardock7238/Habitabilidad-acustica) | Cálculo acústico en Java | ![último commit](https://img.shields.io/github/last-commit/bardock7238/Habitabilidad-acustica?style=flat-square&color=F778BA&labelColor=0D1117&label=) |
 
 ### Estadísticas
 
